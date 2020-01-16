@@ -15,6 +15,7 @@ gem 'jbuilder',     '~> 2.5'
 
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'solidus_flexi_variants', github: 'boomerdigital/solidus_flexi_variants', branch: 'master'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
