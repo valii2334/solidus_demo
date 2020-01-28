@@ -26,6 +26,7 @@ gem 'sprockets-rails','~> 3.2.1'
 
 group :development, :test do
   gem 'pry'
+  gem 'rb-readline'
 end
 
 group :development do
